@@ -5,6 +5,8 @@
 
 ## Description
 
+Live Website: https://intense-ridge-30305.herokuapp.com/
+
 This application is an e-commerce website built with the MERN stack. I was tasked with refactoring this code which used the React-Context-API to use Redux in order to store global state.
 
 ## Table of Contents:
